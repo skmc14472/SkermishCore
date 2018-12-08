@@ -2,3 +2,6 @@ name: SkermishCore
 main: skermishmc.core.Main
 version: 0.1
 author: SkermishMC Development Team
+commands:
+  core:
+    description: Base command for the plugin.
